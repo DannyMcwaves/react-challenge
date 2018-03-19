@@ -58,4 +58,8 @@ describe('++ App tests', () => {
     });
   });
 
+  it('should match snapshot', () => {
+    expect(wrapper).toMatchSnapshot();
+  })
+
 });
