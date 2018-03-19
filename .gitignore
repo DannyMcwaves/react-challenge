@@ -22,3 +22,5 @@ yarn-error.log*
 
 AppSolution.js
 .idea/
+
+__snapshots__/
